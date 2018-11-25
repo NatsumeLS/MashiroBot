@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const client = new Discord.Client();
+const client = new Discord.Client({autoReconnect:true});
 const fs = require('fs');
 const sql = require('sqlite');
 const config = require('./config.json');
