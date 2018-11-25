@@ -9,6 +9,6 @@ module.exports.helpEmbed = function(client, message, Discord) {
 **/rank** \`\`@UserName\`\`
 **/help**
 **/help** \`\`Command\`\`` , true)
-    .setFooter("Natsume#4208", `${client.user.displayAvatarURL}`)
+    .setFooter("Natsume#1150", `${client.user.displayAvatarURL}`)
     message.channel.send({embed: embed});
 }
