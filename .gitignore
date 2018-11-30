@@ -1,3 +1,6 @@
+# Visual Studio Code
+.vscode/
+
 # Logs
 logs
 *.log
@@ -75,7 +78,7 @@ typings/
 # FuseBox cache
 .fusebox/
 
-MashiroBot/.vscode/
+# Custom
 MashiroBot/config.json
 MashiroBot/package-lock.json
 *.sqlite
