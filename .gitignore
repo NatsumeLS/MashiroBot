@@ -79,8 +79,8 @@ typings/
 .fusebox/
 
 # Custom
-MashiroBot/config.json
-MashiroBot/package-lock.json
+config.json
+package-lock.json
 *.sqlite
 .eslintrc.js
 .jshintrc
